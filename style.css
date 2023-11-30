@@ -112,11 +112,11 @@ article > button > img {
         display: block;
         width: 100vh;
         border-top-right-radius: 10px;
-        border-bottom-left-radius: 10px;
+        border-top-left-radius: 10px;
     }
     .container{
         display: block;
-        height: 90vh;
+        height: auto;
         width: 95%;
     }
     article{
